@@ -1,3 +1,20 @@
+header {
+    height: 100vh;
+}
+
+main {
+    height: 100vh;
+    background-color: rgb(36, 36, 36);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px; 
+
+}
+
 .card {
     max-width: 200px;
     min-height: 300px;
